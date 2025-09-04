@@ -21,12 +21,19 @@ Game ini terinspirasi dari permainan tenis, dengan player dikontrol menggunakan 
    cd tennis-game
 
 2. Buat virtual environment (opsional, tapi disarankan)
-   '''python -m venv venv
+   ```bash
+   python -m venv venv
    source venv/bin/activate   # untuk Linux/Mac
    venv\Scripts\activate      # untuk Windows
 
 4. Install dependencies
-   '''pip install pygame
+   ```bash
+   pip install pygame
+## 🚀 Pengembangan Selanjutnya
+- Tambahkan efek suara ketika bola memantul
+- Tingkatkan kecerdasan AI komputer
+- Tambahkan mode 2 pemain (multiplayer lokal)
+- Buat UI menu utama dengan tombol Start, Exit, dll.
 
 
 
