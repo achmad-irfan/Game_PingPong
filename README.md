@@ -1,5 +1,4 @@
-<img width="803" height="623" alt="image" src="https://github.com/user-attachments/assets/6c7155e2-35e7-4ad6-ad3b-62c4d1a97fdc" /># 🎾 Tennis Game - Player vs Computer
-
+# 🎾 Tennis Game - Player vs Computer
 Proyek game sederhana menggunakan **Python + Pygame**.  
 Game ini terinspirasi dari permainan tenis, dengan player dikontrol menggunakan keyboard dan komputer sebagai lawan otomatis.
 
