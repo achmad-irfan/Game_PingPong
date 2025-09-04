@@ -30,10 +30,10 @@ Game ini terinspirasi dari permainan tenis, dengan player dikontrol menggunakan 
    ```bash
    pip install pygame
 ## 🚀 Pengembangan Selanjutnya
-- Tambahkan efek suara ketika bola memantul
-- Tingkatkan kecerdasan AI komputer
-- Tambahkan mode 2 pemain (multiplayer lokal)
-- Buat UI menu utama dengan tombol Start, Exit, dll.
+- Menambahkan efek suara ketika bola memantul
+- Meningkatkan kecerdasan AI komputer
+- Menambahkan mode 2 pemain (multiplayer lokal)
+- Membuat UI menu utama dengan tombol Start, Exit, dll.
 
 
 
