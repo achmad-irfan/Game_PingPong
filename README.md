@@ -19,3 +19,14 @@ Game ini terinspirasi dari permainan tenis, dengan player dikontrol menggunakan 
    ```bash
    git clone https://github.com/username/tennis-game.git
    cd tennis-game
+
+2. Buat virtual environment (opsional, tapi disarankan)
+   '''python -m venv venv
+   source venv/bin/activate   # untuk Linux/Mac
+   venv\Scripts\activate      # untuk Windows
+
+4. Install dependencies
+   '''pip install pygame
+
+
+
