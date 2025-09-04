@@ -1,4 +1,4 @@
-# 🎾 Tennis Game - Player vs Computer
+<img width="803" height="623" alt="image" src="https://github.com/user-attachments/assets/6c7155e2-35e7-4ad6-ad3b-62c4d1a97fdc" /># 🎾 Tennis Game - Player vs Computer
 
 Proyek game sederhana menggunakan **Python + Pygame**.  
 Game ini terinspirasi dari permainan tenis, dengan player dikontrol menggunakan keyboard dan komputer sebagai lawan otomatis.
@@ -29,11 +29,20 @@ Game ini terinspirasi dari permainan tenis, dengan player dikontrol menggunakan 
 4. Install dependencies
    ```bash
    pip install pygame
+
+## 📸 Screenshot
+   <img width="803" height="623" alt="image" src="https://github.com/user-attachments/assets/1e8896f8-51b3-4b71-810e-e6c57b981295" />
+
 ## 🚀 Pengembangan Selanjutnya
 - Menambahkan efek suara ketika bola memantul
 - Meningkatkan kecerdasan AI komputer
 - Menambahkan mode 2 pemain (multiplayer lokal)
 - Membuat UI menu utama dengan tombol Start, Exit, dll.
+
+## 📌 Teknologi
+- Python 3
+- Pygame
+
 
 
 
